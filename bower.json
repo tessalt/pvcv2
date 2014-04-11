@@ -1,0 +1,22 @@
+{
+  "name": "pvc-v2",
+  "version": "0.0.0",
+  "authors": [
+    "Tessa Thornton <tessathornton@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.0.3",
+    "backbone-amd": "~1.1.0",
+    "underscore-amd": "~1.5.2",
+    "requirejs": "~2.1.9"
+  }
+}
